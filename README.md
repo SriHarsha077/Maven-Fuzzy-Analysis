@@ -1,10 +1,10 @@
-# Maven-fuzzy-factory-ADVANCE-SQLB Analysis 
+# Maven Fuzzy Factory Advance-SQL
 
 The course has the user play the role of a database analyst in a startup ecommerce company named Maven Fuzzy Factory. Responsibilities include optimizing market channels, measuring the impact of new product launches, and generally helping steer the startup to grow as quickly as possible.
 
 The dataset is provided by Maven Analytics. It covers the products and performance of an ecommerce startup.
 
-# Updates:
+# Updates
 Overhauled the dashboard completely, got rid of old visuals that were bad, modernized others like the new card visual and DAX visual calculations, as well as a new color palette.
 # Goal
 The goal of this project is to put together a data storytelling report for the board of the company, highlighting the strides that have been made in the 8 months the company has been launched, and emphasizing its rapid growth. As well as showcase the steps taken to improve the website in general. Note that we are only going to analyze the data up until 2012-11-27 as that's the day we receive the email.
