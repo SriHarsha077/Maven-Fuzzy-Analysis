@@ -1,4 +1,4 @@
-# maven-fuzzy-factory-ADVANCE-SQLB Analysis as part of Maven Analytics' Advanced MySQL course.
+# maven-fuzzy-factory-ADVANCE-SQLB Analysis 
 
 The course has the user play the role of a database analyst in a startup ecommerce company named Maven Fuzzy Factory. Responsibilities include optimizing market channels, measuring the impact of new product launches, and generally helping steer the startup to grow as quickly as possible.
 
