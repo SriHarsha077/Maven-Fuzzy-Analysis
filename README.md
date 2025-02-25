@@ -70,4 +70,4 @@ We then count how many sessions reached each step of the funnel, as well as the 
 
 ## Analyze the revenue generated in the test conducted between Sep 10th and Nov 10th between the two billing pages.
 We start by creating a subquery that has the needed data ready for us, the session ID, which billing page was used, the order ID and the total of the order, all in the time constraint specified by the CEO.
-Then, we group the sessions and their totals by each billing page. We find that the new billing page has a lift of $8.5 per session. I actually rewrote this entire query and realized the old one was correct all along
+Then, we group the sessions and their totals by each billing page. We find that the new billing page has a lift of $8.5 per session. I actually rewrote this entire query and realized the old one was correct all along.
